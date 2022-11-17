@@ -1,6 +1,6 @@
-print ("<<<<<<<<<< Adventure of Alan >>>>>>>>>>")
+print ("<<<<<<<<<< Alan Gabut >>>>>>>>>>")
 
-print ("Welcome to the Adventure of Alan!")
+print ("aku dapid!")
 
 p1 = input("kamu pria atau wanita (P/W): \n>>> ")
 if p1== 'P':
